@@ -2,7 +2,7 @@
 title: Project SQL Jobs Analyst
 description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
 author: Frank
-date: 2019-08-01 11:10:00 +0800
+date: 2024-08-01 11:10:00 -0700
 categories: [Projects, SQL]
 tags: [sql, postgreSQL, github]
 pin: true
