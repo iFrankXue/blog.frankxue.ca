@@ -16,7 +16,7 @@ This is my first 📊 data analysis project with sql, following the steps of the
 
 This project mainly focus on the datasets of job market. Keeping eye on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and where 📈 high demand meets high-salary in data analytics.
 
-For detail sql files, please visit 🔍 here: [Project sql folder](/project_sql/).
+For detail sql files, please visit 🔍 here: [Project sql folder](https://github.com/iFrankXue/project_sql_job_data_analyst/tree/f7994c0ce9874eee2e70b7243f293c37d5d6b008/project_sql).
 
 # Background
 
@@ -28,7 +28,7 @@ The dataset of this project comes from [Stackoverflow](https://stackoverflow.com
 
 Following this tutorial, I enhanced some skills and get some new skills for the first time. For detail, the following tools are engaged in this project:
 
-- **SQL**: The backbone of this project, I used sql as the main method to fulfill the whole analysis steps. It covers the basic sql knowledges to advanced skills.
+- **SQL**: The backbone of this project, I used sql as the main method to fulfill the whole analysis steps. It covers the basic sql knowledge to advanced skills.
 - **PostgreSQL**: As it showed in "[2023 Developer Survey](https://survey.stackoverflow.co/2023/)", PostgreSQL is the most popular Database Management Tool. I used PostgreSQL to handle the job posting data.
 - **Visual Studio Code**: This is the most used coding software in recent years, and with the help of the SQLTools extension, VS Code can make the query experience much more easy and handy.
 - **Git & GitHub**: It is important to make version control during programming procedures. Git and GitHub are essential to meet this requirement.
