@@ -14,7 +14,7 @@ mermaid: true
 
 This is my first 📊 data analysis project with sql, following the steps of the tutorial video "[SQL for Data Analytics - Learn SQL in 4 Hours](https://www.youtube.com/watch?v=7mz73uXD9DA)" uploaded by 👨[Luke Barousse](https://github.com/lukebarousse). 👍 Thanks to this fantastic tutorial video, I steped into the whole process of a project. Meanwhile, I also engaged with SQLite 📊 and PostgreSQL 🐘 with the first time.
 
-This project mainly focus on the datasets of job market. Keeping eye on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and where 📈 high demand meets highsalary in data analytics.
+This project mainly focus on the datasets of job market. Keeping eye on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and where 📈 high demand meets high-salary in data analytics.
 
 For detail sql files, please visit 🔍 here: [Project sql folder](/project_sql/).
 
@@ -26,9 +26,9 @@ The dataset of this project comes from [Stackoverflow](https://stackoverflow.com
 
 # Tools I Used
 
-Following this tutorial, I enhanced some skills and get some new skills for the first time. For detial, the following tools are engaged in this project:
+Following this tutorial, I enhanced some skills and get some new skills for the first time. For detail, the following tools are engaged in this project:
 
-- **SQL**: The backbone of this project, I used sql as the mian method to fullfill the whole analysis steps. It covers the basic sql knowledges to advanced skills.
+- **SQL**: The backbone of this project, I used sql as the main method to fulfill the whole analysis steps. It covers the basic sql knowledges to advanced skills.
 - **PostgreSQL**: As it showed in "[2023 Developer Survey](https://survey.stackoverflow.co/2023/)", PostgreSQL is the most popular Database Management Tool. I used PostgreSQL to handle the job posting data.
 - **Visual Studio Code**: This is the most used coding software in recent years, and with the help of the SQLTools extension, VS Code can make the query experience much more easy and handy.
 - **Git & GitHub**: It is important to make version control during programming procedures. Git and GitHub are essential to meet this requirement.
@@ -40,7 +40,7 @@ Here's how I approached each question:
 
 ### 1. Top Paying Data Analyst Jobs
 
-This step identify the highest-paying roles. I filtered data analyst positions by average yeraly salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field.
+This step identify the highest-paying roles. I filtered data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field.
 
 ```sql
 SELECT
@@ -69,12 +69,12 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - **Remote and Flexible Work Arrangements**: Many high-paying roles are listed as "Anywhere" or offer hybrid/remote options, indicating a growing trend towards flexibility in work locations, especially in the tech and data fields.
 - **Diverse Industry Applications**: Companies like **Meta, AT&T, Pinterest, and SmartAsset** highlight that data analysis is a critical function across various industries, from social media and telecommunications to financial services and marketing.
 
-![Top Paying Roles](assets/1_top_paying_jobs.png)
+![Top Paying Roles](assets/img/2024/1_top_paying_jobs.png)
 _Bar graph visualizing the salary for the top 10 salaries for data analysts; ChartGPT generated this graph from my SQL query results._
 
 ### 2. Top Paying Job Skills
 
-The purpose of this query is to find what skills are required fo the top-pyaing Data Analyst jobs. In order to find out this result, I used the result of query 1 as a CTE(Common Table Expression), and then `INNER JOIN` with `skills_job_dim` and `skill_dim`. Finnaly, I can find the top paying jobs related to specific skill name.
+The purpose of this query is to find what skills are required fo the top-paying Data Analyst jobs. In order to find out this result, I used the result of query 1 as a CTE(Common Table Expression), and then `INNER JOIN` with `skills_job_dim` and `skill_dim`. Finally, I can find the top paying jobs related to specific skill name.
 
 ```sql
 WITH top_paying_jobs AS (
@@ -108,10 +108,10 @@ ORDER BY
 
 Here's the breakdown of the most demanded skills for data analysts in 2023, based on job postings:
 **_SQL_**: Essential across all top-paying jobs with count of 14.
-**_Python_**: Highly valued for data analysis and scripting with abold count of 11.
+**_Python_**: Highly valued for data analysis and scripting with a bold count of 11.
 **_Tableau_**: Important for data visualization and highly recommended for data analyst with a bold count of 8. Other skills like **_R_**, **_Snowflake_**, **_Pandas_**, and **_Excel_** show varying degrees of demand.
 
-![Top 10 Paying Job Skills](/assets/2_top_paying_jobs_skills.png)
+![Top 10 Paying Job Skills](assets/img/2024/2_top_paying_jobs_skills.png)
 _Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChartGPT generated this graph from my SQL query results._
 
 ### 3. In-Demand Skills for Data Analysts
@@ -154,7 +154,7 @@ _Table of the demand for the top 5 skills in data analyst job postings._
 
 ### 4. Skills Based on Salary
 
-Exploring the average salaries associated with different skills revealed wich skills are the highest paying.
+Exploring the average salaries associated with different skills revealed with skills are the highest paying.
 
 ```sql
 SELECT
@@ -246,9 +246,9 @@ _Table of the top 10 optimal skills for data analyst based on demand and average
 
 # What I Learned
 
-During the over 20 hours learning journey on job market data analysis, I have significantly enhanced my skills in dataset thinking and analysis and enpowered my skills in sql, VSCode,GitHub, etc.
+During the over 20 hours learning journey on job market data analysis, I have significantly enhanced my skills in dataset thinking and analysis and empowered my skills in sql, VSCode,GitHub, etc.
 
-✅ Firstly,I learned how to approach complex datasets methodically, undersatanding the importance of data quality, cleaning, and prepocessing.I gained insights into various analytical techniques and tools to derive meaningful insights from data.
+✅ Firstly,I learned how to approach complex datasets methodically, understanding the importance of data quality, cleaning, and preprocessing.I gained insights into various analytical techniques and tools to derive meaningful insights from data.
 
 ✅ Secondly, I developed a comprehensive understanding of data collection processes. This experience has equipped my with the ability to manage data projects from inception to conclusion, ensuring data-driven decision-making and actionable outcomes.
 
@@ -258,13 +258,13 @@ During the over 20 hours learning journey on job market data analysis, I have si
 
 ### Insights
 
-From this data ananlysis process, several general insights emerged:
+From this data analysis process, several general insights emerged:
 
 - **_Top-Paying Data Analyst Jobs_**: The top-paying jobs for data analysts that allow remote work offer a wide range of salaries, the highest at $650,000.00！
 - **_Skills for Top-Paying Jobs_**: According to the query result of this step, high-paying jobs in Data Analyst field require advanced proficiency in SQL, suggesting it's a critical skill for earning a top salary.
 - **_Most In-Demand Skills_**: SQL is also the most demanded skill in data analyst job market, thus making it essential for job seekers.
-- **_Skills with Higher Salaries_**: Specialized skills, such as PySpark and Databricks in data technologies, Watson and DataRobot in AI platforms, are assocated with the highest average salaries, indicating a premium on niche expetise.
-- **_Optimal Skills for Job Market Value_**: SQL leads the demand and offers for a high average salary, positioning it as one of the most optimal skills for data analysts to learn to maximize their maket value.
+- **_Skills with Higher Salaries_**: Specialized skills, such as PySpark and Databricks in data technologies, Watson and DataRobot in AI platforms, are assocated with the highest average salaries, indicating a premium on niche expertise.
+- **_Optimal Skills for Job Market Value_**: SQL leads the demand and offers for a high average salary, positioning it as one of the most optimal skills for data analysts to learn to maximize their market value.
 
 ### Closing Thoughts
 
