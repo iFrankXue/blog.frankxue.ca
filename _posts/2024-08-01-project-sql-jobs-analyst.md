@@ -12,7 +12,7 @@ mermaid: true
 
 # Introduction
 
-This is my first 📊 data analysis project with sql, following the steps of the tutorial video "[SQL for Data Analytics - Learn SQL in 4 Hours](https://www.youtube.com/watch?v=7mz73uXD9DA)" uploaded by 👨[Luke Barousse](https://github.com/lukebarousse). 👍 Thanks to this fantastic tutorial video, I steped into the whole process of a project. Meanwhile, I also engaged with SQLite 📊 and PostgreSQL 🐘 with the first time.
+This is my first 📊 data analysis project with sql, following the steps of the tutorial video "[SQL for Data Analytics - Learn SQL in 4 Hours](https://www.youtube.com/watch?v=7mz73uXD9DA)" uploaded by 👨[Luke Barousse](https://github.com/lukebarousse). 👍 Thanks to this fantastic tutorial video, I stepped into the whole process of a project. Meanwhile, I also engaged with SQLite 📊 and PostgreSQL 🐘 with the first time.
 
 This project mainly focus on the datasets of job market. Keeping eye on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and where 📈 high demand meets high-salary in data analytics.
 
@@ -263,7 +263,7 @@ From this data analysis process, several general insights emerged:
 - **_Top-Paying Data Analyst Jobs_**: The top-paying jobs for data analysts that allow remote work offer a wide range of salaries, the highest at $650,000.00！
 - **_Skills for Top-Paying Jobs_**: According to the query result of this step, high-paying jobs in Data Analyst field require advanced proficiency in SQL, suggesting it's a critical skill for earning a top salary.
 - **_Most In-Demand Skills_**: SQL is also the most demanded skill in data analyst job market, thus making it essential for job seekers.
-- **_Skills with Higher Salaries_**: Specialized skills, such as PySpark and Databricks in data technologies, Watson and DataRobot in AI platforms, are assocated with the highest average salaries, indicating a premium on niche expertise.
+- **_Skills with Higher Salaries_**: Specialized skills, such as PySpark and Databricks in data technologies, Watson and DataRobot in AI platforms, are associated with the highest average salaries, indicating a premium on niche expertise.
 - **_Optimal Skills for Job Market Value_**: SQL leads the demand and offers for a high average salary, positioning it as one of the most optimal skills for data analysts to learn to maximize their market value.
 
 ### Closing Thoughts
