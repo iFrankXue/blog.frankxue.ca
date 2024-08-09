@@ -1,7 +1,7 @@
 ---
 title: Beginning of My Portfolio Website
 description:
-author: frank
+author: Frank
 date: 2024-07-20 12:10:00 -0700
 categories: [Blogging]
 tags: [website, jekyll, ruby, github]
