@@ -1,17 +1,17 @@
 ---
-title: Analyze 2023 Developer Survey Results by SQL
-description: Explore more details inside the Stackoverflow 2023 Developer Survey, especially focus on Data Analyst field, and try to find out the jobs and skills related to top-paying and high-demanded opportunities, and more.
-author: Frank
+title: Analyze StackOverflow 2023 Developer Survey Results by SQL
+description: Explore more details inside the StackOverflow 2023 Developer Survey, especially focus on Data Analyst field, and try to find out the jobs and skills related to top-paying and high-demanded opportunities, and more.
+author: frank
 date: 2024-08-01 11:10:00 -0700
-categories: [Projects, SQL]
-tags: [sql, postgreSQL, github]
+categories: [Data Analyst, SQL]
+tags: [sql, postgresql, github]
 pin: true
-math: true
+math: false
 mermaid: true
 image:
   path: /assets/img/2024/08-01/title.png
   lqip: /assets/img/2024/08-01/title.png # or base64 URI
-  alt: Stackoverflow 2023 Developer Survey
+  alt: StackOverflow 2023 Developer Survey
 ---
 
 ## Introduction
