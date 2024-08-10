@@ -16,7 +16,7 @@ timezone: America/Vancouver
 
 title: Frank Xue # the main title
 
-tagline: A Data Focused Guy! # it will display as the sub-title
+tagline: Do what you need to do, and you will be the ONE! # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/img/avatar.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
