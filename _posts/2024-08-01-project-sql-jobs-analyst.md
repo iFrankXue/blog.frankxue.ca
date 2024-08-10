@@ -14,21 +14,23 @@ image:
   alt: Stackoverflow 2023 Developer Survey
 ---
 
-# Introduction
+## Introduction
 
-This is my first 📊 data analysis project with sql, following the steps of the tutorial video "[SQL for Data Analytics - Learn SQL in 4 Hours](https://www.youtube.com/watch?v=7mz73uXD9DA)" uploaded by 👨[Luke Barousse](https://github.com/lukebarousse). 👍 Thanks to this fantastic tutorial video, I stepped into the whole process of a project. Meanwhile, I also engaged with SQLite 📊 and PostgreSQL 🐘 with the first time.
+This is my first 📊 data analysis project with sql, following the steps of the tutorial video "[SQL for Data Analytics - Learn SQL in 4 Hours](https://www.youtube.com/watch?v=7mz73uXD9DA){:target="\_blank"}" uploaded by 👨[Luke Barousse](https://github.com/lukebarousse){:target="\_blank"}. 👍 Thanks to this fantastic tutorial video, I stepped into the whole process of a project. Meanwhile, I also engaged with SQLite 📊 and PostgreSQL 🐘 with the first time.
 
 This project mainly focus on the datasets of job market. Keeping eye on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and where 📈 high demand meets high-salary in data analytics.
 
-For detail sql files, please visit 🔍 here: [Project sql folder](https://github.com/iFrankXue/project_sql_job_data_analyst/tree/f7994c0ce9874eee2e70b7243f293c37d5d6b008/project_sql).
+For detail sql files, please visit 🔍 here: [Project sql folder](https://github.com/iFrankXue/project_sql_job_data_analyst/tree/f7994c0ce9874eee2e70b7243f293c37d5d6b008/project_sql){:target="\_blank"}.
 
-# Background
+## Background
 
 This project analyzes job market data📊, focusing on data analyst positions. It aims to identify top-paying jobs, valuable skills, and high-demand qualifications to aid job seekers, employers, and educators.
 
 The dataset of this project comes from [Stackoverflow](https://stackoverflow.com)'s [2023 Developer Survey](https://survey.stackoverflow.co/2023/). The CSV files📃 are available at my [Google Drive](https://drive.google.com/drive/folders/1XGe4dxWJeZyD6lN8oWD-rC6VJ9Pyb2OT?usp=share_link)
 
-# Tools I Used
+## Tools I Used
+
+<!-- markdownlint-capture -->
 
 Following this tutorial, I enhanced some skills and get some new skills for the first time. For detail, the following tools are engaged in this project:
 
@@ -37,7 +39,9 @@ Following this tutorial, I enhanced some skills and get some new skills for the 
 - **Visual Studio Code**: This is the most used coding software in recent years, and with the help of the SQLTools extension, VS Code can make the query experience much more easy and handy.
 - **Git & GitHub**: It is important to make version control during programming procedures. Git and GitHub are essential to meet this requirement.
 
-# The Analysis
+## The Analysis
+
+<!-- markdownlint-capture -->
 
 Each query for this project aimed to investigating specific aspects of the data analyst job market.
 Here's how I approached each question:
@@ -248,7 +252,7 @@ Here are some quick insights into the trends from the list of optimal skills for
 
 _Table of the top 10 optimal skills for data analyst based on demand and average salary in data analyst job postings._
 
-# What I Learned
+## What I Learned
 
 During the over 20 hours learning journey on job market data analysis, I have significantly enhanced my skills in dataset thinking and analysis and empowered my skills in sql, VSCode,GitHub, etc.
 
@@ -258,7 +262,7 @@ During the over 20 hours learning journey on job market data analysis, I have si
 
 ✅ Thirdly, I acquired a range of technical skills, including SQL, PostgreSQL, VSCode, and GitHub, which have equipped me to tackle more challenging projects in the future.
 
-# Conclusions
+## Conclusions
 
 ### Insights
 
