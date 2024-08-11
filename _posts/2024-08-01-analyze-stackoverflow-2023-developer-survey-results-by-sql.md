@@ -9,8 +9,8 @@ pin: true
 math: false
 mermaid: true
 image:
-  path: /assets/img/2024/08-01/title.png
-  lqip: /assets/img/2024/08-01/title.png # or base64 URI
+  path: /assets/img/2024/08-01-developer-survey-title.png
+  lqip: /assets/img/2024/08-01-developer-survey-title.png # or base64 URI
   alt: StackOverflow 2023 Developer Survey
 ---
 
@@ -77,7 +77,7 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - **Remote and Flexible Work Arrangements**: Many high-paying roles are listed as "Anywhere" or offer hybrid/remote options, indicating a growing trend towards flexibility in work locations, especially in the tech and data fields.
 - **Diverse Industry Applications**: Companies like **Meta, AT&T, Pinterest, and SmartAsset** highlight that data analysis is a critical function across various industries, from social media and telecommunications to financial services and marketing.
 
-![Top Paying Roles](assets/img/2024/08-01/1_top_paying_jobs.png)
+![Top Paying Roles](assets/img/2024/08-01-1_top_paying_jobs.png)
 _Bar graph visualizing the salary for the top 10 salaries for data analysts; ChartGPT generated this graph from my SQL query results._
 
 ### 2. Top Paying Job Skills
@@ -119,7 +119,7 @@ Here's the breakdown of the most demanded skills for data analysts in 2023, base
 **_Python_**: Highly valued for data analysis and scripting with a bold count of 11.
 **_Tableau_**: Important for data visualization and highly recommended for data analyst with a bold count of 8. Other skills like **_R_**, **_Snowflake_**, **_Pandas_**, and **_Excel_** show varying degrees of demand.
 
-![Top 10 Paying Job Skills](assets/img/2024/08-01/2_top_paying_jobs_skills.png)
+![Top 10 Paying Job Skills](assets/img/2024/08-01-2_top_paying_jobs_skills.png)
 _Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChartGPT generated this graph from my SQL query results._
 
 ### 3. In-Demand Skills for Data Analysts
