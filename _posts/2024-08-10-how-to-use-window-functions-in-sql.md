@@ -1,10 +1,10 @@
 ---
-title: Talk About The 'OVER' Clause In SQL
-description: Take a look at he "PARTITION BY" clause in sql, and give some examples for it.
+title: How to Use Window Functions in SQL
+description: Let's talk about the Window Functions in SQL, including 'Ranking Functions', 'Distribution Function', 'Analytic Functions' and 'Aggregate Functions'. Meanwhile, I will also show some example codes by querying an example table.
 author: frank
 date: 2024-08-10 19:03:10 -0700
 categories: [Data Analyst, SQL]
-tags: [sql, syntax]
+tags: [sql, window functions, syntax]
 pin: false
 math: false
 mermaid: true
