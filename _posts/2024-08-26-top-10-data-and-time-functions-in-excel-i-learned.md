@@ -9,14 +9,14 @@ pin: false
 math: false
 mermaid: true
 image:
-  path: /assets/img/2024/08-25-excel-function.png
-  lqip: /assets/img/2024/08-25-excel-function.png # or base64 URI
+  path: /assets/img/2024/08-25-title-time-clock-calendar.png
+  lqip: /assets/img/2024/08-25-title-time-clock-calendar.png # or base64 URI
   alt: Top 10 date and time functions in Excel
 ---
 
 ## **Introduction:**
 
-Excel is a powerful tool for managing and analyzing data, and one of its most essential features is the ability to handle dates and times with precision and flexibility. Whether you're calculating project timelines, tracking important dates, or managing schedules, Excel's date and time functions are indispensable. In this post, we'll explore some of the most useful **date and time functions** in Excel, including **`TODAY()`**, **`NOW()`**, **`DATE()`**, **`DATEDIF()`**, **`YEAR()`**, **`MONTH()`**, **`DAY()`**, **`EOMONTH()`**, **`WEEKDAY()`**, and **`NETWORKDAYS()`**. Each of these functions serves a unique purpose, from simple returning the current date and time to performing more complex calculations like finding the number of working days between two dates. 
+Excel is a powerful tool for managing and analyzing data, and one of its most essential features is the ability to handle dates and times with precision and flexibility. Whether you're calculating project timelines, tracking important dates, or managing schedules, Excel's date and time functions are indispensable. In this post, we'll explore some of the most useful **date and time functions** in Excel, including **[`TODAY()`](#1-today)**, **[`NOW()`](#2-now)**, **[`DATE()`](#3-date)**, **[`DATEDIF()`](#4-datedif)**, **[`YEAR()`](#5-year)**, **[`MONTH()`](#6-month)**, **[`DAY()`](#7-day)**, **[`EOMONTH()`](#8-eomonth)**, **[`WEEKDAY()`](#9-weekday)**, and **[`NETWORKDAYS()`](#10-networkdays)**. Each of these functions serves a unique purpose, from simple returning the current date and time to performing more complex calculations like finding the number of working days between two dates. 
 
 I'll walk you through how each function works, provide examples of their practical application, and share tips to help you make the most of these tools in your daily work. Whether you're a beginner looking to get started with Excel or an experienced user aiming to enhance your efficiency, understanding these functions will significantly improve your ability to manage date and time-related tasks.
 
@@ -26,7 +26,7 @@ I'll walk you through how each function works, provide examples of their practic
 
 | Function       | Description                            | Syntax                            |
 |----------------|----------------------------------------|-----------------------------------|
-| **TODAY**          | Returns the current system date.       | TODAY() - with no arguments.      |
+| **TODAY**      | Returns the current system date.       | TODAY() - with no arguments.      |
 
 The **TODAY()** function in Excel is a simple but powerful tool that **automatically** gives you the **current date**. You don't have to type in the date manually - just use `TODAY()`, and Excel will display today's date, updating it **every time** you open the spreadsheet. This function is great for **tracking** when you last update a file, creating deadlines, or calculating how many days have passed since a certain date. It is like having **a built-in calendar** that always stays current!
 

@@ -9,8 +9,8 @@ pin: true
 math: false
 mermaid: true
 image:
-  path: /assets/img/2024/08-01-developer-survey-title.png
-  lqip: /assets/img/2024/08-01-developer-survey-title.png # or base64 URI
+  path: /assets/img/2024/08-01-title-developer-survey.png
+  lqip: /assets/img/2024/08-01-title-developer-survey.png # or base64 URI
   alt: StackOverflow 2023 Developer Survey
 ---
 

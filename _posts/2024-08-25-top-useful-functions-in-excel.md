@@ -9,8 +9,8 @@ pin: false
 math: false
 mermaid: true
 image:
-  path: /assets/img/2024/08-25-excel-function.png
-  lqip: /assets/img/2024/08-25-excel-function.png # or base64 URI
+  path: /assets/img/2024/08-25-title-excel-function.png
+  lqip: /assets/img/2024/08-25-title-excel-function.png # or base64 URI
   alt: Top useful functions in Excel
 ---
 
