@@ -9,8 +9,8 @@ pin: false
 math: false
 mermaid: true
 image:
-  path: /assets/img/2024/08-01-over-clause-sql-title.png
-  lqip: /assets/img/2024/08-01-over-clause-sql-title.png # or base64 URI
+  path: /assets/img/2024/08-10-over-clause-sql-title.png
+  lqip: /assets/img/2024/08-10-over-clause-sql-title.png # or base64 URI
   alt: Partition By of SQL
 ---
 
