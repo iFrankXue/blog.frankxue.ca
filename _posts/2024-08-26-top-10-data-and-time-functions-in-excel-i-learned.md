@@ -1,5 +1,5 @@
 ---
-title: Top 10 Date and Time Functions in Excel I learned
+title: Top 10 Date and Time Functions in Excel I Learned
 description: Date and time functions are essential when working with dates, times, and durations in Excel, offering a wide range of capabilities for handling temporal data. In this article, I list top 10 most useful functions in "Date and Time".
 author: frank
 date: 2024-08-26 15:20:00 -0700
@@ -14,13 +14,15 @@ image:
   alt: Top 10 date and time functions in Excel
 ---
 
-## **Introduction:**
+## **Introduction**
 
 Excel is a powerful tool for managing and analyzing data, and one of its most essential features is the ability to handle dates and times with precision and flexibility. Whether you're calculating project timelines, tracking important dates, or managing schedules, Excel's date and time functions are indispensable. In this post, we'll explore some of the most useful **date and time functions** in Excel, including **[`TODAY()`](#1-today)**, **[`NOW()`](#2-now)**, **[`DATE()`](#3-date)**, **[`DATEDIF()`](#4-datedif)**, **[`YEAR()`](#5-year)**, **[`MONTH()`](#6-month)**, **[`DAY()`](#7-day)**, **[`EOMONTH()`](#8-eomonth)**, **[`WEEKDAY()`](#9-weekday)**, and **[`NETWORKDAYS()`](#10-networkdays)**. Each of these functions serves a unique purpose, from simple returning the current date and time to performing more complex calculations like finding the number of working days between two dates. 
 
 I'll walk you through how each function works, provide examples of their practical application, and share tips to help you make the most of these tools in your daily work. Whether you're a beginner looking to get started with Excel or an experienced user aiming to enhance your efficiency, understanding these functions will significantly improve your ability to manage date and time-related tasks.
 
-## **Functions:**
+___
+
+## **Functions**
 
 ### 1. TODAY
 
@@ -167,6 +169,24 @@ For example, if you want to find out how many working days there are between "01
 
 This function is particularly useful for calculating deadlines, determining the duration of tasks in business days, or planning schedules that need to consider only working days. It helps ensure that your calculations are accurate by taking into account the non-working days automatically.
 
-## **Summary:**
+___
+
+## **Summary**
 
 All in conclusion, Excel's date and time functions, such as `TODAY()`, `NOW()`, `DATE()`, `DATEDIF()`, `YEAR()`, `MONTH()`, `DAY()`, `EOMONTH()`, `WEEKDAY()`, and `NETWORKDAYS()` are powerful tolls for efficiently managing and analyzing temporal data. From calculating the current date and time to determining the number of working days between two dates, these functions can simplify complex tasks and enhance your productivity. Understanding how to use them effectively will help you better handle time-sensitive data and streamline your work in Excel.
+
+___
+
+For more useful functions in Excel, please refer the following links:
+
+- [Top Useful Functions in EXCEL](/posts/top-useful-functions-in-excel/)
+
+  - [Top 10 Date and Time Functions in Excel I learned](/posts/top-10-data-and-time-functions-in-excel-i-learned)
+  - [Top 6 Important Logical Functions in Excel You need to Know About](/posts/top-6-important-logical-functions-in-excel-you-need-to-know-about)
+  - [Top 12 Information Functions in Excel You Should Know](/posts/top-12-information-functions-in-excel-you-should-know)
+  - [Top 6 Best Lookup Functions in Excel](/posts/top-6-best-lookup-functions-in-excel)
+  - [Top 6 Useful Functions for Financial Operations in Excel](/posts/top-6-useful-functions-for-financial-operations-in-excel)
+  - [Top 11 Basic Functions for Mathematical Modeling in Excel](/posts/top-11-basic-functions-for-mathematical-modeling-in-excel)
+  - [Top 12 Advanced Excel Functions for Statistical Operations](/posts/top-12-advanced-excel-functions-for-statistical-operations)
+  - [Top 12 Most Useful Text Functions in Excel You Should Know](/posts/top-12-most-useful-text-functions-in-excel-you-should-know)
+
