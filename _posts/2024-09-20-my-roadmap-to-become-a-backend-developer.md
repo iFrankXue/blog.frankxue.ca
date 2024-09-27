@@ -35,11 +35,75 @@ Although my goal is to become a backend developer, mastering basic frontend know
 
 Frontend development is the client-side aspect of web development, responsible for everything users see and interact with on a website or web application. It involves the use of technologies like: HTML(Hypertext Markup Language), CSS(Cascading Style Sheets), and JavaScript.
 
-### HTML CSS JAVASCRIPT
+#### HTML
 
-#### HTML & CSS
+### CSS & SCSS
+
+#### JavaScript
+
+### npm (Node Package Manager)
 
 
+## Internet Technology
 
-#### JAVASCRIPT
+## Computer Science
 
+## Program Language
+
+### Python
+
+### Django
+
+## Version Control System
+
+### Git
+
+### GitHub
+
+## Data Structure & Algorithms
+
+## Databases
+
+### Relational
+
+- Data is stored in tables with rows & columns
+- Best for apps that require complex queries & transactions
+- Banking systems, Ecommerce apps
+- Apps that require complex reporting
+- Most popular: PostgreSQL, MySQL, SQL Server, and Oracle
+ 
+### Non-Relational
+
+- Data is stored without a predefined table structure
+- Best for apps that require flexible data models & real-time analytics
+- Most popular: MongoDB
+
+### SQL
+
+### PostgreSQL
+
+### MySQL
+
+
+## Design Patterns
+
+- Proven solutions to common design problems.
+
+- There are 23 classic design patterns: 1. Strategy 2. Decorator 3. Factory Method 4. Observer 5. Chain of Responsibility 6. Singleton 7. Flyweight 8. Adapter 9. Facade 10. Template 11. Builder 12. Iterator 13. Composite 14. Command 15. Mediator 16. State 17. Proxy 18. Abstract Factory 19. Bridge 20. Interpreter 21. Memento 22. Prototype 23 Visitor.
+
+- Helps us understand object-oriented design principles & web frameworks.
+
+
+## Backend Concepts
+
+### APIs
+
+### Caching
+
+### Web Security
+
+### Testing
+
+### Containerization & Visualization
+
+## Cloud Platforms
